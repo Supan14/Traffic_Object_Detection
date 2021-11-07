@@ -1,3 +1,4 @@
 [submodule "darknet"]
 	path = darknet
-	url = https://github.com/artynet/darknet-alexeyAB.git
+	url = https://github.com/artynet/darknet-alexeyAB
+	branch = master
